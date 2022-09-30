@@ -34,7 +34,7 @@ eCommerce platform built with the MERN stack & Redux. This app includes authenti
 ## Live demo
 
 Live demo of the app is hosted on Heroku.  
-Visit []
+Visit [https://shopper-22.herokuapp.com/]
 
 Test users credentials:
 
